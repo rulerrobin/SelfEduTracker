@@ -8,6 +8,7 @@ Complete foundational work that I have planned out.
 - [ ] Find and start a bootcamp course to give direction
 - [ ] Responsive Web Design - freecodecamp.org
 - [ ] Learn git a bit more and update as I go
+- [ ] Complete a few mini web pages/projects
 
 ### June 2022
 
