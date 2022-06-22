@@ -7,8 +7,4 @@ The reason I am making the switch into SWE is because I have some experience in 
 
 ### Course_Log
 
-A list of the courses I have and am planning to complete as well as projects.
-
-### Project_Log
-
-A list of the courses I have and am planning to complete as well as projects.
+A list of the courses I have and am planning to complete as well as projects. Also has links to courses and projects specified.
