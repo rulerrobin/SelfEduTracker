@@ -5,6 +5,9 @@
 Complete foundational work that I have planned out. 
 - [ ] CS50's Introduction to Computer Science
 - [ ] CS50W: Web Programming with Python and JavaScript
+- [ ] Find and start a bootcamp course to give direction
+- [ ] Responsive Web Design - freecodecamp.org
+- [ ] Learn git a bit more and update as I go
 
 ### June 2022
 
