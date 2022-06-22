@@ -11,6 +11,7 @@
 | Planned  | 22/6/2022 | N/A | Back End Development and APIs | freecodecamp.org |
 | Planned  | 22/6/2022 | N/A | Software Engineering Bootcamp (Full Stack Engineer MERN) | Institute of Data Hosted by UTS |
 | Planned  | 22/6/2022 | N/A | Full Stack Engineer | CodeAcademy |
+| Planned  | 22/6/2022 | N/A | The Complete Web Developer in 2022: Zero to Mastery| Andrei Neagoie |
 | Planned  | 22/6/2022 | N/A | AWS Certification | Amazon|
 
 React?
