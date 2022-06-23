@@ -6,12 +6,13 @@
 | Planned  | 22/6/2022 | N/A | CS50's Introduction to Computer Science | Harvard edX |
 | Planned  | 22/6/2022 | N/A | CS50W: Web Programming with Python and JavaScript | Harvard edX |
 | Planned  | 22/6/2022 | N/A | Responsive Web Design | freecodecamp.org |
-| Planned  | 22/6/2022 | N/A | JavaScript Algorithms and Data Structures | freecodecamp.org |
-| Planned  | 22/6/2022 | N/A | Front End Development Libraries | freecodecamp.org |
-| Planned  | 22/6/2022 | N/A | Back End Development and APIs | freecodecamp.org |
+| Planned  | 23/6/2022 | N/A | Foundations | TheOdinProject |
+| Planned  | 23/6/2022 | N/A | Full Stack Javascript | TheOdinProject |
 | Planned  | 22/6/2022 | N/A | Software Engineering Bootcamp (Full Stack Engineer MERN) | Institute of Data Hosted by UTS |
-| Planned  | 22/6/2022 | N/A | Full Stack Engineer | CodeAcademy |
 | Planned  | 22/6/2022 | N/A | AWS Certification | Amazon|
+
+Extras:
+Code Academy for extra learnings Full Stack Engineer, Javascript etc? Once confident try and make projects every few weeks.
 
 Notes:
 
@@ -19,7 +20,7 @@ Need to find a good react course/practice
 
 **Projects**
 
-Projects that I am planning to create or have already created as practice once I am more confident.
+Projects that I am planning to create or have already created as practice once I am more confident. 
 
 | Status | Name | Description | Link
 | ------------- | ------------- | ------------- | ------------- |
@@ -31,3 +32,4 @@ Projects that I am planning to create or have already created as practice once I
 | N/A | Hangman | Simple game of hangman | N/A |
 | N/A | Wordle | Simple copy wordle | N/A |
 | N/A | Mastermind | Wordle but with predetermined colors instead of words | N/A |
+| N/A | Spotify | Spotify MVP clone | N/A |
