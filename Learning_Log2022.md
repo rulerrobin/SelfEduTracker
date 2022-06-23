@@ -6,7 +6,7 @@ Complete foundational work that I have planned out.
 - [ ] CS50's Introduction to Computer Science
 - [ ] CS50W: Web Programming with Python and JavaScript
 - [ ] Find and start a bootcamp course to give direction
-- [ ] Responsive Web Design - freecodecamp.org
+- [ ] The Odin Project Foundations and Javascript Courses
 - [ ] Learn git a bit more and update as I go
 - [ ] Complete a few mini web pages/projects
 
@@ -17,3 +17,7 @@ So far in June of 2022 I have done a lot of research into different courses and 
 ### 22 June 2022
 
 Re opened my old github accound and made a sort of blog/tracker for a future portfolio of my skills and the road I am taking to become a SWE. Took a while to figure out why markdown was not working but have got a barebones set up going.
+
+### 23 June 2022
+
+Decided to do TOP as it will help more than programming in a real environment and I can practice basic things using Code Academy if I need to.
