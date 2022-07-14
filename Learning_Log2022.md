@@ -5,7 +5,8 @@
 Complete foundational work that I have planned out. 
 - [ ] CS50's Introduction to Computer Science
 - [ ] CS50W: Web Programming with Python and JavaScript
-- [ ] Find and start a bootcamp course to give direction
+- [x] Find a bootcamp course to give direction (July 13)
+- [ ] Start bootcamp
 - [ ] The Odin Project Foundations and Javascript Courses
 - [ ] Learn git a bit more and update as I go
 - [ ] Complete a few mini web pages/projects
