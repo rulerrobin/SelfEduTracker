@@ -30,3 +30,11 @@ Decided to do TOP as it will help more than programming in a real environment an
 Over the course of my holiday I considered the difference between Coder Academy and Institute of Data hosted by UTS. I decided to go with Coder Academy for my course as from my research it has many more reviews and history in regards to SWE (Web Dev). I found it much harder to find information about the SWE course for IOD as it looks to be mostly Data Science, which I would love to try but I want to get back into SWE and creating in coding. Only caveat to that though is that it is longer by 3 months due to class length and things covered. I also chose Coder Academy as it has a 1 month placement if needed and also covers python which I would like to learn. Though the institute of Data has 5 students per teacher I believe from reviews and people I have spoken to, I believe Coder Academy covers the technology I want to use and is a good place to learn.
 
 I started doing The Odin Project introductions which is mostly about what is a computer.
+
+### _July 14_
+
+Started working on Prequisites of the course in Foundations learning about how the Web works and also finally figured out and understood how Packets work and the internet works with transferring Data which is actually amazing going through different pathways each to get their locations.
+
+### _July 18_
+
+Watched Lecture 0 of CS50, however I will be skipping using scratch as I a have some previous basic experience in programming and have TOP for coding already in practice. Once coding in a dev software starts in CS50 I will follow along and do the projects.
