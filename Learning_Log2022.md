@@ -35,6 +35,21 @@ I started doing The Odin Project introductions which is mostly about what is a c
 
 Started working on Prequisites of the course in Foundations learning about how the Web works and also finally figured out and understood how Packets work and the internet works with transferring Data which is actually amazing going through different pathways each to get their locations.
 
-### _July 18_
+### _July 17_
 
 Watched Lecture 0 of CS50, however I will be skipping using scratch as I a have some previous basic experience in programming and have TOP for coding already in practice. Once coding in a dev software starts in CS50 I will follow along and do the projects.
+
+### _July 19_
+
+Continued work on the start of TOP and continued on the Unix lesson which I started last week however had a permissions error on my mac. After some troubleshooting and "repair" of terminal permissions I think my issue was actually a typo in the terminal code.
+
+### _July 20_
+
+Continuing to work on TOP Unix lesson as I complete it during work and travel time. My manager suggested a data analyst role for me from the contact centre which has me questioning what I should do next as I can learn quickly if that is my main focus so I might try to apply to it for now and see how it goes.
+
+### _July 21_ 
+
+I am nearing the end of the Unix lesson and feel like I have learned a lot, understanding a bit of the CLI in how to manage (move, delete, copy, etc) files/directories.
+
+In todays lesson I am learning about pipes to create outputs from multiple commands without making an intermediary file. My answers in the lessons so far have either been close to the answer or I misread the question so although I missed some I feel more confident than I do before.
+
