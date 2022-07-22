@@ -51,5 +51,8 @@ Continuing to work on TOP Unix lesson as I complete it during work and travel ti
 
 I am nearing the end of the Unix lesson and feel like I have learned a lot, understanding a bit of the CLI in how to manage (move, delete, copy, etc) files/directories.
 
-In todays lesson I am learning about pipes to create outputs from multiple commands without making an intermediary file. My answers in the lessons so far have either been close to the answer or I misread the question so although I missed some I feel more confident than I do before.
+In todays lesson I am learning about pipes to create outputs from multiple commands without making an intermediary file. My answers in the lessons so far have either been close to the answer or I misread the question so although I missed some I feel more confident than I do before. Watched Part of CS50 Week 1 and could not finish it because I was too tired.
 
+### _July 22_
+
+Continued watching CS50 Week 1 but still unfinished, will continue and finish tomorrow
