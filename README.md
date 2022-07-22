@@ -14,6 +14,6 @@ The reason I am making the switch into SWE is because I have some experience in 
 
 A list of the courses I have and am planning to complete as well as projects. Also has links to courses and projects specified.
 
-#### [Learning_Log_22](https://github.com/rulerrobin/SelfEduTracker/edit/main/Learning_Log2022.md)
+#### [Learning_Log_22](https://github.com/rulerrobin/SelfEduTracker/blob/main/Learning_Log2022.md)
 
 This section will be about my day to day with coding and relearning SWD. 
