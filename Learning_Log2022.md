@@ -59,3 +59,7 @@ In todays lesson I am learning about pipes to create outputs from multiple comma
 ### _July 22_
 
 Continued watching CS50 Week 1 but still unfinished, will continue and finish tomorrow
+  
+### _July 23_
+
+  I am now 25% through the foundations part of The Odin Project and set up Git/nearly done with basics and completed basic prerequisites. My next step is to get into HTML Foundations and go from there. I still have not finished Week 1 lecture of CS50 but will try again tomorrow when we return home.
