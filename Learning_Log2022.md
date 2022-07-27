@@ -63,4 +63,20 @@ Complete foundational work that I have planned out.
   ### _July 23_
 
    I am now 25% through the foundations part of The Odin Project and set up Git/nearly done with basics and completed basic prerequisites. My next step is to get into HTML Foundations and go from there. I still have not finished Week 1 lecture of CS50 but will try again tomorrow when we return home.
+  
+  ### _July 25_
+  
+  Monday is the day Week 1 of CS50 was finished, and I have also had trouble with making the SSH key as I made one with TOP already a few days ago. I am not sure what happened to the old one so I have asked TOP discord and am now waiting for a reply as I don't want to mess things up yet and mess around too much.
+  
+  ### _July 26_ 
+  
+  So with my SSH issue it's fine it just wrote over my previous one and I will probably look into this more at a later time as I am still unsure how exactly SSH keys work with different keys, accounts and access after researching them. I watched CS50 Lecture 2 today and realised I have not completed Problem set 1 from the previous.
+  
+  For TOP I have actually started the HTML foundations section and am starting to do basic HTML, no issues so far.
+  
+  ### _July 27_
+  
+  I am now working on problem set 1 and am able to print out the # but it all comes out as a line of whatever is inputted and repeats. I am having trouble making it so that it appears as a pyramid type shape. Still trying to troubleshoot this and have to do week 2 problems/lab as well after this.
+  
+  
 
