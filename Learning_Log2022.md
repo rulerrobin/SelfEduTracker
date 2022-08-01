@@ -78,5 +78,14 @@ Complete foundational work that I have planned out.
   
   I am now working on problem set 1 and am able to print out the # but it all comes out as a line of whatever is inputted and repeats. I am having trouble making it so that it appears as a pyramid type shape. Still trying to troubleshoot this and have to do week 2 problems/lab as well after this.
   
-  
+</details>
 
+<details>
+  
+  <summary> August </summary>
+  
+  ### _August 1_
+  
+  After this past month I have realised after covering some general basics that it might be easier and more beneficial to focus more on one language as if I eventually do decide to get into data analysis/science and machine learning which are all interesting topics I might as well start with Python and see where I go from there.
+  
+  The reason I am choosing Python is because as a language it will be easier to learn and faster to learn with less syntax and code overall but still being versatile and having many different uses. I am still going to go through with CS50 however am putting The Odin Project on hold as I travel down basics and fundamentals of Python then following along in projects from FreeCodeCamp and getting into making my own projects right after.
